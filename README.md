@@ -107,7 +107,3 @@ We welcome contributions from the community! To contribute:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-> **Note**: This is a Hatchways assessment project. Please submit your solution by creating a pull request (PR) on this repository. **Do not** merge your PR. Return to your Hatchways assessment page to confirm your submission.
