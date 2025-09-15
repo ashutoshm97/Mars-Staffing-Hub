@@ -15,7 +15,7 @@ async function findTopWorkplaces() {
     
     // Check if we have any data to process
     if (totalWorkplaces === 0) {
-      console.log('No workplaces found. Please seed the database first.');
+      console.log(JSON.stringify([]));
       return;
     }
 
